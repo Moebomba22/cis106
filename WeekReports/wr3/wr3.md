@@ -22,3 +22,7 @@
 ![Practice 6](practice6.png)
 ### Practice 7
 ![Practice 7](practice7.png)
+### Practice 1 Managing Software
+![Practice 1](managing1.png)
+### Practice 3 Manging Sodtware
+![Practice 3](managing2.png)
